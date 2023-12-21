@@ -1,0 +1,23 @@
+{
+  "name": "youtube-summarizer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cli": "node cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "he": "^1.2.0",
+    "p-queue": "^8.0.1",
+    "striptags": "^3.2.0",
+    "yargs": "^17.7.2"
+  }
+}

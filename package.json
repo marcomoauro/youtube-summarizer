@@ -2,7 +2,7 @@
   "name": "youtube-summarizer",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "CLI for summarizing YouTube videos using ChatGPT",
   "main": "index.js",
   "scripts": {
     "cli": "node cli.js"
@@ -10,8 +10,8 @@
   "engines": {
     "node": ">=20"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["chatgpt", "youtube", "summarization", "node.js"],
+  "author": "Marco Moauro <marcomoauro@hotmail.it>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",

@@ -21,4 +21,5 @@ yarn cli --video="https://www.youtube.com/watch?v=3l2wh5K_WLI" --language en
 ```
 
 ## References
-I talk about this project in this episode of my tech newsletter: https://implementing.substack.com/p/6-technologies-you-should-know-as
+I talk about this project in this episode of my tech newsletter:
+https://implementing.substack.com/p/how-to-summarize-youtube-video-using
